@@ -202,4 +202,4 @@ def plot_all(N, theta_max = np.deg2rad(179.9), num = 1000):
 
 #eighth order apporximaitons are a default pretty plot. 
 if __name__ == "__main__":
-    plot_all(8)
+    plot_all(5)
